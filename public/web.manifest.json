@@ -1,0 +1,32 @@
+{
+  "name": "Instagram Video Downloader",
+  "short_name": "Instagram Video Downloader",
+  "description": "Fast, free, and no login required. Just paste the URL and download.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4285f4",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "scope": "/",
+  "orientation": "portrait",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["Internet"],
+  "keywords": [
+    "Instagram video downloader",
+    "download IG videos",
+    "Instagram video saver",
+    "Instagram video save",
+    "Instagram video saver free",
+    "Instagram video downloader free",
+    "Instagram video download free",
+    "Instagram video saver app",
+    "Instagram video downloader app"
+  ],
+  "author": "naresh",
+  "copyright": "© 2025 naresh. All rights reserved.",
+  "rating": "General",
+  "apple-mobile-web-app-title": "Instagram Video Downloader",
+  "apple-mobile-web-app-status-bar-style": "black-translucent"
+}
